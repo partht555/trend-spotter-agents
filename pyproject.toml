@@ -1,0 +1,6 @@
+[project]
+name = "trend_spotter"
+version = "0.1.0"
+# Setuptools will now auto-discover your trend_spotter package.
+[tool.adk.agents]
+trend_spotter = "trend_spotter.agent:root_agent"

@@ -1,0 +1,11 @@
+pyproject.toml
+trend_spotter/__init__.py
+trend_spotter/agent.py
+trend_spotter/prompt.py
+trend_spotter/tools.py
+trend_spotter.egg-info/PKG-INFO
+trend_spotter.egg-info/SOURCES.txt
+trend_spotter.egg-info/dependency_links.txt
+trend_spotter.egg-info/top_level.txt
+trend_spotter/sub_agents/google_search_agent.py
+trend_spotter/sub_agents/reddit_agent.py
